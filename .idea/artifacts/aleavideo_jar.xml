@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="aleavideo:jar">
+    <output-path>I:/vid/aleavideo</output-path>
+    <root id="root">
+      <element id="archive" name="aleavideo.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="aleavideo" />
+      </element>
+    </root>
+  </artifact>
+</component>
